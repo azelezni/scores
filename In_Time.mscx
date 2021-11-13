@@ -167,8 +167,8 @@
           <stem>1</stem>
           </Drum>
         <Drum pitch="46">
-          <head>cross</head>
-          <line>1</line>
+          <head>xcircle</head>
+          <line>-1</line>
           <voice>0</voice>
           <name>Open Hi-Hat</name>
           <stem>1</stem>
@@ -614,9 +614,9 @@
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <head>cross</head>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              <head>xcircle</head>
               </Note>
             </Chord>
           <Chord>
