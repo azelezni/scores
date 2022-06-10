@@ -2556,7 +2556,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <pitch>42</pitch>
@@ -2565,15 +2565,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <pitch>35</pitch>
@@ -2583,13 +2575,6 @@
               <pitch>42</pitch>
               <tpc>20</tpc>
               <head>cross</head>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2960,15 +2945,6 @@
               <pitch>38</pitch>
               <tpc>16</tpc>
               </Note>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <head>cross</head>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
@@ -2983,6 +2959,14 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -3421,22 +3405,6 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3447,14 +3415,22 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <appoggiatura/>
+            <StemDirection>up</StemDirection>
             <Note>
               <pitch>38</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <pitch>38</pitch>
